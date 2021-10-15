@@ -1,6 +1,8 @@
 
 **Paper Wallet Bitcoin Mono Generator**
 
+https://alfariqicrypto.github.io/papermono
+
 Just drop the files in a publicly accessible web folder and you've got your own copy of the explorer.
 
 # BitcoinMono BTCMZ
