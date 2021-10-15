@@ -3,7 +3,7 @@
 
 Just drop the files in a publicly accessible web folder and you've got your own copy of the explorer.
 
-# derogold-coin
+# BitcoinMono BTCMZ
 ## How to fork for your own coin
 Edit the values in index.html on lines 28, 31, 47, 66, 87, 90  to your coin  
 Edit the value on line 1626 in crypto_utils.js, address prefix to your address prefix, and your coin info  
